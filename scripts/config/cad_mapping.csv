@@ -1,0 +1,17 @@
+Source Layer,Target FC,DQ
+DesignPoints,Milepost,*SIGN-MILE*
+DesignPoints,Signs,C-TRAF-SIGN*
+DesignLines,Routes,C-ROAD-ALGN
+DesignLines,Centerline,C-ROAD-CL
+DesignLines,barriers,C-ROAD-BARR*
+DesignLines,Structure,
+DesignLines,Median,
+DesignLines,ShoulderLeft,C-ROAD-EDGE-SHOL*
+DesignLines,ShoulderRight,C-ROAD-EDGE-SHOL*
+DesignLines,LaneStriping,C-TRAF-STRP-WHIT*
+DesignLines,LaneStriping,C-TRAF-STRP-YELO*
+DesignLines,LaneCount,
+DesignLines,LaneWidth,
+DesignLines,TurnLaneLeft,
+DesignLines,TurnLaneRight,
+DesignLines,Widening,
